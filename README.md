@@ -1,5 +1,6 @@
-# My Profile
-This is my GitHub profile page
+# About me
+* Front end development: ReactJS/NextJS/Angular/Typescript/Javascript
+* Back end development: Java/Spring
 
 ### :hammer_and_wrench: Languages and Tools :
 
