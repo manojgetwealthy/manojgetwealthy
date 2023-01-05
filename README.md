@@ -1,6 +1,6 @@
 # About me
-* Front end development: ReactJS/NextJS/Angular/Typescript/Javascript
-* Back end development: Java/Spring
+* Front end: ReactJS / NextJS / Angular / Typescript / Javascript
+* Back end: Java / Spring
 
 ### :hammer_and_wrench: Languages and Tools :
 
