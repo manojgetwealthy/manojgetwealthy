@@ -2,6 +2,11 @@
 * Front end: ReactJS / NextJS / Angular / Typescript / Javascript
 * Back end: Java / Spring
 
+## React/Next
+* Flux
+* Redux
+* Valtio / Proxy
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
