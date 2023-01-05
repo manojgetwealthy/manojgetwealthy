@@ -7,6 +7,9 @@
 * Redux
 * Valtio / Proxy
 
+## Angular
+* ngrx
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
