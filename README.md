@@ -1,6 +1,6 @@
 # About me
 * Front end: ReactJS / NextJS / Angular / Typescript / Javascript
-* Back end: Java / Spring
+* Back end: Java / Spring, NodeJS / Express
 
 ## React/Next
 * Flux
