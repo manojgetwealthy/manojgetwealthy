@@ -1,14 +1,17 @@
 # About me
+---
 * Front end: ReactJS / NextJS / Angular / Typescript / Javascript
 * Back end: Java / Spring, NodeJS / Express
 
 ## React/Next
+---
 * Flux
 * Redux
 * Valtio / Proxy
 * Recoil
 
 ## Angular
+---
 * ngrx
 * Angular material
 * Prime NG
