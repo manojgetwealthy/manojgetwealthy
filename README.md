@@ -6,9 +6,12 @@
 * Flux
 * Redux
 * Valtio / Proxy
+* Recoil
 
 ## Angular
 * ngrx
+* Angular material
+* Prime NG
 
 ### :hammer_and_wrench: Languages and Tools :
 
